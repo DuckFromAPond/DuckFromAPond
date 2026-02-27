@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="display: flex">
-  <img  src="https://media.tenor.com/OFkETBzqZ7IAAAAi/hi.gif"/> 
-  <h1 style="margin:auto">𝓱𝓮𝓵𝓵𝓸</h1>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://media.tenor.com/OFkETBzqZ7IAAAAi/hi.gif" width="100"/>
+    </td>
+    <td>
+      <h1>𝓱𝓮𝓵𝓵𝓸</h1>
+    </td>
+  </tr>
+</table>
