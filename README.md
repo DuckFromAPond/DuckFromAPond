@@ -14,13 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <img src="https://media.tenor.com/OFkETBzqZ7IAAAAi/hi.gif" width="100"/>
-    </td>
-    <td align="middle" valign="middle">
-      <span style="font-size: 50px; font-family: cursive;">𝓱𝓮𝓵𝓵𝓸</span>
-    </td>
-  </tr>
-</table>
+&nbsp;&nbsp;![](hello.gif)&nbsp;&nbsp;𝓱𝓮𝓵𝓵𝓸&nbsp;&nbsp;
