@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="">
-  <img height="50" src="https://media.tenor.com/OFkETBzqZ7IAAAAi/hi.gif"/>
-</a>
+  <img  src="https://media.tenor.com/OFkETBzqZ7IAAAAi/hi.gif"/>
+
