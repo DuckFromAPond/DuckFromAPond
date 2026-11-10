@@ -1,11 +1,7 @@
 # &nbsp;&nbsp;𝓱𝓮𝓵𝓵𝓸&nbsp;&nbsp;
 
-<table border="0">
-  <tr>
-    <td><img src="hello.gif" width="120" alt="Hello"></td>
-    <td>I am Reaksmey, a <strong>full-stack developer</strong> in <strong>Phnom Penh, Cambodia</strong>. I like building backend-heavy web apps and enjoy digging into software to understand how it works under the hood. I love experimenting with newer technologies and am always looking for opportunities to learn.</td>
-  </tr>
-</table>
+<img align="left" width="120" src="hello.gif" alt="Hello"> 
+I am Reaksmey, a <strong>full-stack developer</strong> in <strong>Phnom Penh, Cambodia</strong>. I like building backend-heavy web apps and enjoy digging into software to understand how it works under the hood. I love experimenting with newer technologies and am always looking for opportunities to learn.
 
 <br clear="left">
 
