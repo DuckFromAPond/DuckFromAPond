@@ -33,11 +33,11 @@
 ## Interests
 
 ```yaml
-user@portfolio:~\$ cat interests.yml
+reaksmey@portfolio:~\$ cat interests.yml
 
 systems: "Understanding system designs and learning devOps practices"
 graphics: "Curious about Three.js and graphic programming"
 outside_of_the_code: "Learning language, sketching, reading and yapping non-stop about my favourite artists"
 
-user@portfolio:~\$ ▮
+reaksmey@portfolio:~\$ ▮
 ```
