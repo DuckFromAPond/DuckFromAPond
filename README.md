@@ -1,9 +1,9 @@
 # &nbsp;&nbsp;𝓱𝓮𝓵𝓵𝓸&nbsp;&nbsp;
 
-<p align="left">
-<img src="hello.gif" align="left" width="120" hspace="8" style="float: left; margin-right: 8px;"> I am Reaksmey, a **full-stack developer** in **Phnom Penh, Cambodia**. I like building backend-heavy web apps and enjoy digging into softwares to understand how it works. I love experimenting and messing with newer technologies. Always looking for opportunity to learn. 
-</p>
+<img src="hello.gif" align="left" width="120" hspace="8"> <span style="display: inline-block; margin-left: 8px;">I am Reaksmey, a **full-stack developer** in **Phnom Penh, Cambodia**. I like building backend-heavy web apps and enjoy digging into softwares to understand how it works. I love experimenting and messing with newer technologies. Always looking for opportunity to learn. </span>
+
 <br clear="left">
+
 ## Tech stack
 
 ### Languages
