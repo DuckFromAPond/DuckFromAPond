@@ -1,9 +1,8 @@
-# &nbsp;&nbsp;𝓱𝓮𝓵𝓵𝓸&nbsp;&nbsp;
+# 𝓱𝓮𝓵𝓵𝓸
 
-<img align="left" width="120" src="hello.gif" hspace="12" alt="Hello"> 
-I am Reaksmey, a <strong>full-stack developer</strong> in <strong>Phnom Penh, Cambodia</strong>. I like building backend-heavy web apps and enjoy digging into software to understand how it works under the hood. I love experimenting with newer technologies and am always looking for opportunities to learn.
+<img align="right" width="120" src="hello.gif" alt="Hello" > 
 
-<br clear="left">
+<p align="left" >I am Reaksmey, a <strong>full-stack developer</strong> in <strong>Phnom Penh, Cambodia</strong>. I like building backend-heavy web apps and enjoy digging into software to understand how it works under the hood. I love experimenting with newer technologies and am always looking for opportunities to learn.</p>
 
 ## Tech stack
 
